@@ -1,0 +1,1 @@
+# sistema_clasificacion_residuos
